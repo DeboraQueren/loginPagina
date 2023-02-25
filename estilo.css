@@ -1,0 +1,58 @@
+.body{
+    background-color: #00008b;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items:end;
+
+
+}
+.fundoForm{
+    background-color: #6c63ff;
+    width: 300px;
+    height: 400px;
+    align-items: center;
+    margin-top: 10%;
+    border-radius: 40px;
+    padding: 10px;
+
+}
+.formContainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.titulologin{
+    color:white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.inputlogin{
+    background-color:#cccccc;
+    border:none;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 15px;
+
+}
+.botao{
+    background-color:#2f2e41;
+    color:white;
+    border-radius: 20px;
+    height: 40px;
+    width: 115px;
+    border:none;
+}
+img{
+    height: 350px;
+}
